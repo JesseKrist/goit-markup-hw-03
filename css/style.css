@@ -126,7 +126,7 @@ nav a:focus,
   align-items: center;
 }
 
-.criterion-list, 
+.criterion-list,
 .what-wedo-list,
 .our-team-list,
 .works-ex,
@@ -153,7 +153,6 @@ nav a:focus,
 .our-team-list li {
   margin-top: 50px;
 }
-
 
 .section {
   padding: 94px 215px 94px 215px;
@@ -298,7 +297,6 @@ h2 {
   padding-bottom: 30px;
 }
 
-
 .center {
   margin: 9px 0px 9px 0px;
 }
@@ -333,5 +331,3 @@ h2 {
   border: 1px solid #eeeeee;
   box-sizing: border-box;
 }
-
-
